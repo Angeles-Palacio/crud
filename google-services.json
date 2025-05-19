@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576809105934",
+    "project_id": "crudprueba-fc3b0",
+    "storage_bucket": "crudprueba-fc3b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576809105934:android:0d47d5dbd1d12238575a5f",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZvR3psNvZoPzchMymtomEsI5Llr6O7aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

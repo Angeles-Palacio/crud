@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">crud</string>
+    <string-array name="items_option">
+        <item>Modificar</item>
+        <item>Eliminar</item>
+        <item>Cancelar</item>
+    </string-array>
+</resources>
